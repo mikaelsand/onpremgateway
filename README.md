@@ -4,7 +4,7 @@ Scripts for aiding the use of On Prem Data Gateways.
 
 ## Map Gateways
 
-For more information on this, [visit my blog]('https://www.mikaelsand.se/öasödalsjd'). Here is the short version:
+For more information on this, [visit my blog]('https://www.mikaelsand.se/2022/04/mapping-opgw-gateway-versions/'). Here is the short version:
 
 - This creates a better overview than given by the Gateway management page.
 - Must run on PS 7.x
@@ -16,11 +16,11 @@ For more information on this, [visit my blog]('https://www.mikaelsand.se/öasöd
 
 | Header      | Description |
 | ----------- | ----------- |
-| ClusterName      | I thing you can figure this out       |
-| MemeberGateways   | A list of all gateways in the cluster        |
+| ClusterName      | I think you can figure this out       |
+| MemberGateways   | A list of all gateways in the cluster        |
 |GatewayMachines| A list of all the machinenames connected to the cluster (hosting a gateway service) |
 |Cluster Status|Is it online (live) or not|
-|Version Status|If "Upgrate is required": Update your gateway installation.|
+|Version Status|If "Update is required": Update your gateway installation.|
 
 ### Access rights
 
